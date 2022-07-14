@@ -1,0 +1,24 @@
+{
+  "name": "check-ng-word-from-text",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "textlint": "npx textlint './sample.txt'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hisasann/check-ng-word-from-text.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hisasann/check-ng-word-from-text/issues"
+  },
+  "homepage": "https://github.com/hisasann/check-ng-word-from-text#readme",
+  "devDependencies": {
+    "textlint": "^12.2.1",
+    "textlint-rule-ng-word": "^1.0.0"
+  }
+}
